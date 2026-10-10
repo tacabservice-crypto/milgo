@@ -1,0 +1,891 @@
+{
+ "products": [
+  {
+   "id": "prod-001",
+   "name": "Qadir Royal Oud",
+   "nameSo": "Cuudka Boqortooyada Qadir",
+   "brand": "DK Signature",
+   "category": "Luxury Oud",
+   "fragranceFamily": "Oriental",
+   "concentration": "Extrait de Parfum",
+   "gender": "Unisex",
+   "description": "An opulent symphony of rare Cambodian agarwood, smoldering amber resins, and velvety Taif rose. Designed for sovereign evenings and grand ceremonies.",
+   "descriptionSo": "Udug qaali ah oo ka samaysan cuud saafi ah oo Kamboodiya ah, canbar kulul, iyo ubaxa Ta’if ee boqortooyada. Waxaa loogu talagalay xafladaha waaweyn iyo habeenada gaarka ah.",
+   "images": [
+    "/images/perfume_royal_oud_1791620599669.jpg",
+    "/images/hero_luxury_perfume_1791620587322.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Wild Saffron",
+     "Nutmeg",
+     "Bergamot Zest"
+    ],
+    "heart": [
+     "Taif Rose",
+     "Incense Smoke",
+     "Cistus Labdanum"
+    ],
+    "base": [
+     "Cambodian Aged Agarwood",
+     "Warm Amber Crystals",
+     "Smoked Birch",
+     "Bourbon Vanilla"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-001-50",
+     "size": "50ml",
+     "sku": "MLG-OUD-50",
+     "costPrice": 33.18,
+     "sellingPrice": 87,
+     "discountPrice": 75,
+     "stockQuantity": 18,
+     "lowStockThreshold": 5
+    },
+    {
+     "id": "var-001-100",
+     "size": "100ml",
+     "sku": "MLG-OUD-100",
+     "costPrice": 51.35,
+     "sellingPrice": 130,
+     "stockQuantity": 12,
+     "lowStockThreshold": 4
+    }
+   ],
+   "featured": true,
+   "bestSeller": true,
+   "isNewArrival": false,
+   "active": true,
+   "authenticityVerified": true,
+   "usageInstructions": "Apply sparingly to pulse points: neck, wrist, and behind the ears.",
+   "rating": 4.9,
+   "reviewCount": 38,
+   "createdAt": "2026-01-15T10:00:00Z"
+  },
+  {
+   "id": "prod-002",
+   "name": "Noir Éclat Intense",
+   "nameSo": "Noir Éclat - Madowga Iftiimaya",
+   "brand": "DK Signature",
+   "category": "Men",
+   "fragranceFamily": "Woody",
+   "concentration": "Eau de Parfum",
+   "gender": "Men",
+   "description": "A magnetic masculine composition of crisp Italian bergamot, dark vetiver, crushed cedarwood, and refined Tuscan leather.",
+   "descriptionSo": "Cadar raggeed soo jiidasho gaar ah leh oo ka kooban beergamoot Talyaani ah, qoryaha cedar, xididada fiitfeer, iyo maqaarka qaaliga ah ee Tuscany.",
+   "images": [
+    "/images/perfume_noir_intense_1791620620862.jpg",
+    "/images/hero_luxury_perfume_1791620587322.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Calabrian Bergamot",
+     "Black Pepper",
+     "Pink Peppercorn"
+    ],
+    "heart": [
+     "Lavender de Provence",
+     "Sichuan Pepper",
+     "Elemi Resin"
+    ],
+    "base": [
+     "Haitian Vetiver",
+     "Atlas Cedarwood",
+     "Ambroxan",
+     "Tuscan Leather"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-002-50",
+     "size": "50ml",
+     "sku": "MLG-NOIR-50",
+     "costPrice": 27.65,
+     "sellingPrice": 67,
+     "stockQuantity": 14,
+     "lowStockThreshold": 4
+    },
+    {
+     "id": "var-002-100",
+     "size": "100ml",
+     "sku": "MLG-NOIR-100",
+     "costPrice": 41.08,
+     "sellingPrice": 103,
+     "discountPrice": 91,
+     "stockQuantity": 8,
+     "lowStockThreshold": 3
+    }
+   ],
+   "featured": true,
+   "bestSeller": true,
+   "isNewArrival": false,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 4.8,
+   "reviewCount": 42,
+   "createdAt": "2026-02-01T12:00:00Z"
+  },
+  {
+   "id": "prod-003",
+   "name": "Rose Électrique",
+   "nameSo": "Ubaxa Roose ee Xariirta Ah",
+   "brand": "DK Signature",
+   "category": "Women",
+   "fragranceFamily": "Floral",
+   "concentration": "Eau de Parfum",
+   "gender": "Women",
+   "description": "A radiant feminine elixir capturing dew-kissed Damask roses, sparkling pink champagne, white musk, and luminous cashmere wood.",
+   "descriptionSo": "Cadar dumar oo aad u macaan, laga miiray ubaxa Damask ee subaxdii la gooyay, misk cad oo saafi ah, iyo qoryaha cashmere-ka ee qaaliga ah.",
+   "images": [
+    "/images/perfume_rose_elixir_1791620610051.jpg",
+    "/images/hero_luxury_perfume_1791620587322.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Sparkling Pear",
+     "Pink Lychee",
+     "Italian Mandarin"
+    ],
+    "heart": [
+     "Damask Rose Absolute",
+     "White Peony",
+     "Dewy Jasmine"
+    ],
+    "base": [
+     "Cashmere Wood",
+     "White Silk Musk",
+     "Golden Amber"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-003-50",
+     "size": "50ml",
+     "sku": "MLG-ROSE-50",
+     "costPrice": 30.02,
+     "sellingPrice": 71,
+     "stockQuantity": 22,
+     "lowStockThreshold": 5
+    },
+    {
+     "id": "var-003-100",
+     "size": "100ml",
+     "sku": "MLG-ROSE-100",
+     "costPrice": 45.82,
+     "sellingPrice": 111,
+     "discountPrice": 99,
+     "stockQuantity": 15,
+     "lowStockThreshold": 4
+    }
+   ],
+   "featured": true,
+   "bestSeller": false,
+   "isNewArrival": true,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 4.9,
+   "reviewCount": 29,
+   "createdAt": "2026-02-14T09:00:00Z"
+  },
+  {
+   "id": "prod-004",
+   "name": "Aurora D’Or Imperial",
+   "nameSo": "Aurora D’Or - Dahabka Boqortooyada",
+   "brand": "DK Signature",
+   "category": "Luxury Oud",
+   "fragranceFamily": "Oriental",
+   "concentration": "Parfum",
+   "gender": "Unisex",
+   "description": "A sovereign blend of liquid amber, Somali frankincense tears, creamy Madagascar vanilla, and golden cedar. Radiates warmth and commanding poise.",
+   "descriptionSo": "Isku dar udug boqortooyo ah oo ka kooban luubaan Soomaali ah oo saafi ah, canbar dahabi ah, faaniilo madow oo Madagaskar ah, iyo geedka kedarka ah.",
+   "images": [
+    "/images/hero_luxury_perfume_1791620587322.jpg",
+    "/images/perfume_royal_oud_1791620599669.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Somali Frankincense Tears",
+     "Wild Honey",
+     "Cinnamon Bark"
+    ],
+    "heart": [
+     "Amber Resin",
+     "Smoked Myrrh",
+     "Roasted Tonka Bean"
+    ],
+    "base": [
+     "Madagascar Vanilla Caviar",
+     "Sandalwood",
+     "Benzoin Siam"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-004-50",
+     "size": "50ml",
+     "sku": "MLG-AURORA-50",
+     "costPrice": 39.5,
+     "sellingPrice": 95,
+     "stockQuantity": 10,
+     "lowStockThreshold": 3
+    },
+    {
+     "id": "var-004-100",
+     "size": "100ml",
+     "sku": "MLG-AURORA-100",
+     "costPrice": 59.25,
+     "sellingPrice": 142,
+     "discountPrice": 122,
+     "stockQuantity": 7,
+     "lowStockThreshold": 3
+    }
+   ],
+   "featured": true,
+   "bestSeller": true,
+   "isNewArrival": true,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 5,
+   "reviewCount": 19,
+   "createdAt": "2026-02-20T11:00:00Z"
+  },
+  {
+   "id": "prod-005",
+   "name": "Baccarat Rouge 540 Extract",
+   "nameSo": "Baccarat Rouge 540 Saafi Ah",
+   "brand": "Maison Francis Kurkdjian",
+   "category": "Niche & Oud",
+   "fragranceFamily": "Oriental",
+   "concentration": "Extrait de Parfum",
+   "gender": "Unisex",
+   "description": "The legendary masterpiece combining bitter almond from Morocco, grandiflorum jasmine from Egypt, and radiant woody musk accord.",
+   "descriptionSo": "Cadarka caanka ah ee dunida gilgilay, leh udug macaan oo yicib Marooko ah, jasmine Masar ah, iyo qoryaha qaaliga ah ee ambergris.",
+   "images": [
+    "/images/perfume_rose_elixir_1791620610051.jpg",
+    "/images/hero_luxury_perfume_1791620587322.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Bitter Almond from Morocco",
+     "Saffron"
+    ],
+    "heart": [
+     "Egyptian Jasmine Grandiflorum",
+     "Cedar"
+    ],
+    "base": [
+     "Ambergris Accord",
+     "Woody Musk"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-005-70",
+     "size": "70ml",
+     "sku": "MFK-BR540-70",
+     "costPrice": 150.1,
+     "sellingPrice": 253,
+     "discountPrice": 233,
+     "stockQuantity": 5,
+     "lowStockThreshold": 2
+    }
+   ],
+   "featured": false,
+   "bestSeller": true,
+   "isNewArrival": false,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 4.9,
+   "reviewCount": 55,
+   "createdAt": "2026-01-10T08:00:00Z"
+  },
+  {
+   "id": "prod-006",
+   "name": "Oud Wood Private Blend",
+   "nameSo": "Tom Ford Oud Wood Asal Ah",
+   "brand": "Tom Ford",
+   "category": "Men",
+   "fragranceFamily": "Woody",
+   "concentration": "Eau de Parfum",
+   "gender": "Unisex",
+   "description": "Rare oud wood, rosewood, cardamom, and sensual amber create an iconic, deeply sophisticated scent profile.",
+   "descriptionSo": "Mid ka mid ah cadarrada loogu jecelyahay dunida ragga iyo dumarka, ka samaysan cuud dhif ah, qorfe carfoon, iyo canbar diirran.",
+   "images": [
+    "/images/perfume_noir_intense_1791620620862.jpg",
+    "/images/perfume_royal_oud_1791620599669.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Rare Rosewood",
+     "Cardamom",
+     "Chinese Pepper"
+    ],
+    "heart": [
+     "Oud Wood",
+     "Sandalwood",
+     "Vetiver"
+    ],
+    "base": [
+     "Tonka Bean",
+     "Vanilla",
+     "Amber"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-006-50",
+     "size": "50ml",
+     "sku": "TF-OW-50",
+     "costPrice": 86.9,
+     "sellingPrice": 154,
+     "stockQuantity": 6,
+     "lowStockThreshold": 2
+    },
+    {
+     "id": "var-006-100",
+     "size": "100ml",
+     "sku": "TF-OW-100",
+     "costPrice": 130.35,
+     "sellingPrice": 221,
+     "stockQuantity": 4,
+     "lowStockThreshold": 2
+    }
+   ],
+   "featured": true,
+   "bestSeller": true,
+   "isNewArrival": false,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 4.8,
+   "reviewCount": 31,
+   "createdAt": "2026-01-18T14:00:00Z"
+  },
+  {
+   "id": "prod-007",
+   "name": "Interlude Man 53",
+   "nameSo": "Amouage Interlude Man 53",
+   "brand": "Amouage",
+   "category": "Men",
+   "fragranceFamily": "Oriental",
+   "concentration": "Extrait de Parfum",
+   "gender": "Men",
+   "description": "Known as the Blue Beast with 53% perfume oil concentration. Resinous, smoky, balsamic, and extraordinarily potent with timeless sillage.",
+   "descriptionSo": "Waxaa loo yaqaanaa bahalka buluugga ah (Blue Beast). Waxa uu leeyahay 53% saliid saafi ah, udug sigaar, luubaan, iyo awood aan duugoobin.",
+   "images": [
+    "/images/perfume_royal_oud_1791620599669.jpg",
+    "/images/perfume_noir_intense_1791620620862.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Bergamot",
+     "Oregano",
+     "Pimento Berry Oil"
+    ],
+    "heart": [
+     "Amber",
+     "Frankincense",
+     "Cistus",
+     "Opoponax"
+    ],
+    "base": [
+     "Leather",
+     "Agarwood Smoke",
+     "Patchouli",
+     "Sandalwood"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-007-100",
+     "size": "100ml",
+     "sku": "AMU-INT-100",
+     "costPrice": 165.9,
+     "sellingPrice": 277,
+     "stockQuantity": 3,
+     "lowStockThreshold": 2
+    }
+   ],
+   "featured": false,
+   "bestSeller": false,
+   "isNewArrival": true,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 5,
+   "reviewCount": 14,
+   "createdAt": "2026-02-18T16:00:00Z"
+  },
+  {
+   "id": "prod-008",
+   "name": "Citrus Riviera Breeze",
+   "nameSo": "Nacnaca Liinta & Neecawda Badda",
+   "brand": "DK Signature",
+   "category": "Unisex",
+   "fragranceFamily": "Citrus",
+   "concentration": "Eau de Parfum",
+   "gender": "Unisex",
+   "description": "Crisp Mediterranean lemons, fresh sea salt accord, green petitgrain, and cedar driftwood. An invigorating breath of coastal sun and freshness.",
+   "descriptionSo": "Udug aad u cusub oo ka kooban liin dhanaan carfoon, neecowda badda, iyo qoryaha xeebta. Aad ugu habboon cimilada diirran.",
+   "images": [
+    "/images/hero_luxury_perfume_1791620587322.jpg",
+    "/images/perfume_rose_elixir_1791620610051.jpg"
+   ],
+   "notes": {
+    "top": [
+     "Amalfi Lemon",
+     "Green Mandarin",
+     "Sea Salt Spray"
+    ],
+    "heart": [
+     "Neroli Flowers",
+     "Petitgrain",
+     "Rosemary"
+    ],
+    "base": [
+     "Driftwood",
+     "White Cedar",
+     "Clean Musk"
+    ]
+   },
+   "variants": [
+    {
+     "id": "var-008-50",
+     "size": "50ml",
+     "sku": "MLG-CIT-50",
+     "costPrice": 22.12,
+     "sellingPrice": 55,
+     "discountPrice": 47,
+     "stockQuantity": 20,
+     "lowStockThreshold": 5
+    },
+    {
+     "id": "var-008-100",
+     "size": "100ml",
+     "sku": "MLG-CIT-100",
+     "costPrice": 34.76,
+     "sellingPrice": 87,
+     "stockQuantity": 16,
+     "lowStockThreshold": 4
+    }
+   ],
+   "featured": false,
+   "bestSeller": false,
+   "isNewArrival": true,
+   "active": true,
+   "authenticityVerified": true,
+   "rating": 4.7,
+   "reviewCount": 12,
+   "createdAt": "2026-02-25T13:00:00Z"
+  }
+ ],
+ "settings": {
+  "dataVersion": 2,
+  "storeName": "DK Perfume",
+  "taglineEn": "Fine fragrances from London to the world.",
+  "taglineSo": "Cadar qaali ah, London ilaa adduunka.",
+  "phone": "+252 61 748 5100",
+  "email": "info@dkperfume.com",
+  "address": "London, United Kingdom",
+  "currency": "GBP",
+  "currencyRateSos": 32900,
+  "freeDeliveryThreshold": 40,
+  "announcementBarTextEn": "Free UK delivery over £60 · Worldwide shipping",
+  "announcementBarTextSo": "Gaarsiin bilaash ah UK £60 ka badan · Dirid caalami ah",
+  "announcementBarActive": true,
+  "whatsappNumber": "+252617485100",
+  "instagram": "dkperfume",
+  "facebook": "dkperfume",
+  "payments": {
+   "mode": "live",
+   "cards": {
+    "enabled": true,
+    "brands": [
+     "visa",
+     "mastercard",
+     "amex",
+     "discover",
+     "unionpay",
+     "jcb",
+     "diners"
+    ],
+    "stripePublishableKey": ""
+   },
+   "paypal": {
+    "enabled": true,
+    "clientId": ""
+   },
+   "applePay": true,
+   "googlePay": true,
+   "mobileMoney": {
+    "enabled": true,
+    "countries": [
+     "SO"
+    ],
+    "wallets": [
+     {
+      "name": "EVC Plus",
+      "enabled": true,
+      "merchantNumber": "+252 61 748 5100"
+     },
+     {
+      "name": "Zaad",
+      "enabled": true,
+      "merchantNumber": "+252 63 748 5100"
+     },
+     {
+      "name": "Sahal",
+      "enabled": true,
+      "merchantNumber": "+252 90 748 5100"
+     },
+     {
+      "name": "Edahab",
+      "enabled": true,
+      "merchantNumber": "+252 65 748 5100"
+     }
+    ]
+   },
+   "bankTransfer": {
+    "enabled": true,
+    "bankName": "Barclays Bank UK",
+    "accountName": "DK Perfume Ltd",
+    "iban": "",
+    "swift": "",
+    "instructions": "Use your order number as the transfer reference. Orders ship once funds arrive."
+   },
+   "cashOnDelivery": {
+    "enabled": true,
+    "countries": [
+     "SO"
+    ]
+   }
+  },
+  "markets": {
+   "sellWorldwide": true,
+   "allowedCountries": [],
+   "currencyRates": [
+    {
+     "code": "USD",
+     "rate": 1.27
+    },
+    {
+     "code": "EUR",
+     "rate": 1.16
+    },
+    {
+     "code": "AED",
+     "rate": 4.65
+    },
+    {
+     "code": "SAR",
+     "rate": 4.75
+    },
+    {
+     "code": "KES",
+     "rate": 163.29
+    },
+    {
+     "code": "CAD",
+     "rate": 1.73
+    },
+    {
+     "code": "SOS",
+     "rate": 32911.39
+    }
+   ]
+  },
+  "heroSlides": [
+   {
+    "id": "hero-001",
+    "image": "/images/hero_luxury_perfume_1791620587322.jpg",
+    "headlineEn": "",
+    "headlineSo": "",
+    "subheadlineEn": "",
+    "subheadlineSo": "",
+    "tagLabel": "Signature Collection",
+    "tagTitle": "Aurora D’Or Imperial",
+    "active": true
+   }
+  ]
+ },
+ "delivery_zones": [
+  {
+   "id": "zone-uk-std",
+   "city": "United Kingdom",
+   "zoneName": "UK Standard (Royal Mail Tracked 48)",
+   "country": "United Kingdom",
+   "regionType": "international",
+   "countries": [
+    "GB"
+   ],
+   "deliveryFee": 3.95,
+   "estimatedHours": "2–3 working days",
+   "freeShippingFrom": 60,
+   "active": true
+  },
+  {
+   "id": "zone-uk-next",
+   "city": "United Kingdom",
+   "zoneName": "UK Next Day (DPD)",
+   "country": "United Kingdom",
+   "regionType": "international",
+   "countries": [
+    "GB"
+   ],
+   "deliveryFee": 6.95,
+   "estimatedHours": "Next working day",
+   "freeShippingFrom": 150,
+   "active": true
+  },
+  {
+   "id": "zone-01",
+   "city": "Mogadishu",
+   "zoneName": "Hodan & Maka Al-Mukarama",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 2.5,
+   "estimatedHours": "2–4 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-02",
+   "city": "Mogadishu",
+   "zoneName": "Waberi & Airport Road",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 2.5,
+   "estimatedHours": "2–4 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-03",
+   "city": "Mogadishu",
+   "zoneName": "Wadajir & Halane",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 3,
+   "estimatedHours": "3–6 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-04",
+   "city": "Mogadishu",
+   "zoneName": "Boondheere, Hamar Weyne & Shangani",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 3,
+   "estimatedHours": "3–6 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-05",
+   "city": "Mogadishu",
+   "zoneName": "Yaqshid, Kaaran & Dayniile",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 4,
+   "estimatedHours": "4–8 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-06",
+   "city": "Hargeisa",
+   "zoneName": "Hargeisa Central & Jigjiga Yar",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 5.5,
+   "estimatedHours": "24 hours (Air Express)",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-07",
+   "city": "Garowe",
+   "zoneName": "Garowe City Center",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 6.5,
+   "estimatedHours": "24–48 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-08",
+   "city": "Kismayo",
+   "zoneName": "Kismayo Port & City",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 6.5,
+   "estimatedHours": "24–48 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-09",
+   "city": "Bosaso",
+   "zoneName": "Bosaso Commercial Center",
+   "country": "Somalia",
+   "regionType": "domestic",
+   "deliveryFee": 6.5,
+   "estimatedHours": "24–48 hours",
+   "active": true,
+   "countries": [
+    "SO"
+   ],
+   "freeShippingFrom": 40
+  },
+  {
+   "id": "zone-int-us",
+   "city": "United States & Canada",
+   "zoneName": "DHL Express Worldwide (Air Courier)",
+   "country": "United States",
+   "regionType": "international",
+   "countries": [
+    "US",
+    "CA"
+   ],
+   "deliveryFee": 27.5,
+   "estimatedHours": "3–5 Business Days",
+   "active": true,
+   "freeShippingFrom": null
+  },
+  {
+   "id": "zone-int-uk",
+   "city": "Europe",
+   "zoneName": "DHL Express Air Priority",
+   "country": "Europe",
+   "regionType": "international",
+   "countries": [
+    "IE",
+    "FR",
+    "DE",
+    "NL",
+    "BE",
+    "IT",
+    "ES",
+    "PT",
+    "SE",
+    "NO",
+    "DK",
+    "FI",
+    "CH",
+    "AT",
+    "PL"
+   ],
+   "deliveryFee": 22,
+   "estimatedHours": "3–5 Business Days",
+   "active": true,
+   "freeShippingFrom": null
+  },
+  {
+   "id": "zone-int-uae",
+   "city": "Dubai & Gulf (GCC)",
+   "zoneName": "Emirates SkyCargo / Courier Service",
+   "country": "United Arab Emirates",
+   "regionType": "international",
+   "countries": [
+    "AE",
+    "SA",
+    "QA",
+    "KW",
+    "BH",
+    "OM"
+   ],
+   "deliveryFee": 17.5,
+   "estimatedHours": "2–4 Business Days",
+   "active": true,
+   "freeShippingFrom": null
+  },
+  {
+   "id": "zone-int-ke",
+   "city": "Nairobi & East Africa",
+   "zoneName": "Regional Air Priority Express",
+   "country": "Kenya",
+   "regionType": "international",
+   "countries": [
+    "KE",
+    "ET",
+    "DJ",
+    "UG",
+    "TZ",
+    "RW"
+   ],
+   "deliveryFee": 14,
+   "estimatedHours": "2–3 Business Days",
+   "active": true,
+   "freeShippingFrom": null
+  },
+  {
+   "id": "zone-int-row",
+   "city": "Rest of World",
+   "zoneName": "International Priority Air Courier",
+   "country": "Worldwide",
+   "regionType": "international",
+   "countries": [
+    "*"
+   ],
+   "deliveryFee": 33,
+   "estimatedHours": "5–7 Business Days",
+   "active": true,
+   "freeShippingFrom": null
+  }
+ ],
+ "coupons": [
+  {
+   "code": "DK10",
+   "discountType": "percentage",
+   "discountValue": 10,
+   "minOrderAmount": 40,
+   "timesUsed": 14,
+   "expiryDate": "2026-12-31",
+   "active": true
+  },
+  {
+   "code": "SOMALIAVIP",
+   "discountType": "fixed",
+   "discountValue": 12,
+   "minOrderAmount": 79,
+   "timesUsed": 8,
+   "expiryDate": "2026-12-31",
+   "active": true
+  },
+  {
+   "code": "FREESHIP",
+   "discountType": "fixed",
+   "discountValue": 4,
+   "minOrderAmount": 32,
+   "timesUsed": 22,
+   "expiryDate": "2026-12-31",
+   "active": true
+  }
+ ]
+}

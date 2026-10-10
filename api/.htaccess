@@ -1,0 +1,14 @@
+# Only the two entry points are reachable from the web; library code and data files are not.
+Options -Indexes
+
+<FilesMatch "\.(json|sqlite|db|log|md)$">
+  Require all denied
+</FilesMatch>
+
+RewriteEngine On
+RewriteRule ^lib/ - [F,L]
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "same-origin"
+</IfModule>
